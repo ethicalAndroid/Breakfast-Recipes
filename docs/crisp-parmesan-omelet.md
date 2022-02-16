@@ -48,6 +48,6 @@ Makes 1 Serving
 
 You should have a delicious omelet with a crisp cheese outside and a
 soft egg inside. See figure 4.
-![Picture of finished meal](image/media/picture4.jpg)
+![Picture of finished meal](images/media/picture4.jpg)
 
 ##### Figure 4.
