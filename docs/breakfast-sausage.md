@@ -55,3 +55,5 @@ You should have 6 delicious breakfast sausages. See figure 1.
 ![Picture of finished meal](/images/media/picture1.jpg)
 
 ##### Figure 1
+
+{% include footer.html %}

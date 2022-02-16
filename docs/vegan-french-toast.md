@@ -41,3 +41,5 @@ figure 3.
 ![Picture of finished meal](images/media/picture3.jpg)
 
 ##### Figure 3.
+
+{% include footer.html %}

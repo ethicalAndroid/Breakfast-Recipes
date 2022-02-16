@@ -51,3 +51,5 @@ soft egg inside. See figure 4.
 ![Picture of finished meal](images/media/picture4.jpg)
 
 ##### Figure 4.
+
+{% include footer.html %}

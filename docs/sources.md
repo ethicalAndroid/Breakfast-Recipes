@@ -12,3 +12,5 @@ Moroni, Xena. "Vegan French Toast" Recipe. *allrecipes.com*.
 
 Chef John. "Parmalet (Crisp Parmesan Omelet)" Recipe. *allrecipes.com*.
 [https://www.allrecipes.com/recipe/255334/parmalet-crisp-parmesan-omelet/](https://www.allrecipes.com/recipe/255334/parmalet-crisp-parmesan-omelet/)
+
+{% include footer.html %}
