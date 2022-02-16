@@ -2,7 +2,7 @@
 
 Adapted from Chef John.  
 Total cook and prep time: 15 minutes  
-Makes 1 Serving
+Makes 1 Serving  
 
 ## Ingredients
 
