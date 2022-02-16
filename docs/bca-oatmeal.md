@@ -14,8 +14,7 @@ Makes 2 Servings
 - ¼ cup blanched slivered almonds
 - 2 ½ tablespoons turbinado (or optionally brown) sugar
 - ½ teaspoon almond extract
-- 1 large banana, slightly mashed (Tip: How much you mash the banana
-    will affect the banana flavor of the oatmeal.)
+- 1 large banana, slightly mashed (_Tip: How much you mash the banana will affect the banana flavor of the oatmeal._)
 
 ## Tools
 

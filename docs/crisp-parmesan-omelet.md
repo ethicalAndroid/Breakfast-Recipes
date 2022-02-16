@@ -37,9 +37,9 @@ Makes 1 Serving
 1. Sprinkle with salt, pepper, and cayenne.
 1. Cover the eggs with the lid.
 1. Check if the eggs are set after the first 30 seconds. For 2 eggs,
-    this should take about 1 minute of total cooking time. (Tip: If part
+    this should take about 1 minute of total cooking time. (_Tip: If part
     of the eggs still moves like liquid when checking, they are not
-    set.)
+    set._)
 1. Remove pan from heat.
 1. Carefully use spatula to fold omelet in half.
 1. Serve!
