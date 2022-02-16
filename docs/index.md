@@ -1,6 +1,6 @@
 # Table of Contents
 
-[Introduction](index.md)
+[Introduction](introduction.md)
 
 [How to make: Breakfast Sausage](breakfast-sausage.md)
 
