@@ -42,4 +42,4 @@ figure 3.
 
 ##### Figure 3.
 
-{% include footer.html %}
+{% include footer.md %}

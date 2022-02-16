@@ -52,4 +52,4 @@ soft egg inside. See figure 4.
 
 ##### Figure 4.
 
-{% include footer.html %}
+{% include footer.md %}
