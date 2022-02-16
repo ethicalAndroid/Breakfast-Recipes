@@ -1,6 +1,6 @@
 # Breakfast Recipes for practicing Github Pages
 
-[Frontpage Link](docs/index.md)
+[Frontpage Link](https://ethicalandroid.github.io/Breakfast-Recipes/)
 
 By Mateo de la Rosa.
 
